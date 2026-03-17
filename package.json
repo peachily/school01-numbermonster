@@ -1,0 +1,9 @@
+{
+  "name": "school01-number-monster",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Classroom number monster game prototype",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
