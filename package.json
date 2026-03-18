@@ -4,6 +4,7 @@
   "private": true,
   "description": "Classroom number monster game prototype",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "start:classroom": "HOST=0.0.0.0 PORT=3000 node server.js"
   }
 }
